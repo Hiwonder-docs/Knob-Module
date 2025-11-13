@@ -8,7 +8,7 @@
 
 This section uses DuPont wire to connect the knob sensor and the ADC digital-to-analog conversion module as an example. For wiring instructions, refer to the figure below:
 
-<img class="common_img" src="../_static/media/chapter_1/section_3/media/image4.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_3/media/image4.png" style="width:700px" />
 
 > [!NOTE]
 >

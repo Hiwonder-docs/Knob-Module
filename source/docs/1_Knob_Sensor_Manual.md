@@ -1,6 +1,6 @@
 # 1. Knob Sensor Manual
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:400px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:500px" />
 
 ## 1.1 Knob Sensor Description
 
@@ -32,7 +32,7 @@ For more information, you may refer to **["Knob sensor schematic"](https://drive
 
 ### 1.3.1 Pin Instruction
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:400px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:500px" />
 
 | **Pin** | **Instruction**                                                                                                                                                                                                                                                                                                                  |
 |:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
